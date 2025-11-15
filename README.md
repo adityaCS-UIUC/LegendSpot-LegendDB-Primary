@@ -1,10 +1,10 @@
-* HotSpot-FusionDB — Research Prototype & Simulation Toolkit
+* HotSpot-LegendDB — Research Prototype & Simulation Toolkit
 
   * A hybrid LSM-augmented, multi-primary RDMA OLTP architecture for mitigating hot-spot contention in cloud databases.
 
 * Overview
 
-  * HotSpot-FusionDB is a research prototype accompanying the CS411 project proposal “HotSpot-FusionDB: Bridging LSM Write Optimization and Multi-Primary RDMA Concurrency Control.”
+  * HotSpot-LegendDB is a research prototype accompanying the CS411 project proposal “HotSpot-FusionDB: Bridging LSM Write Optimization and Multi-Primary RDMA Concurrency Control.”
 
   * This repository provides:
 	* A simulation of skew-induced contention in multi-primary systems.
